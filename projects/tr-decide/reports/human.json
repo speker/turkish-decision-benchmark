@@ -1,0 +1,87 @@
+{
+ "items": 40,
+ "readers": 5,
+ "native": 5,
+ "answered": [
+  40,
+  40,
+  40,
+  40,
+  40
+ ],
+ "agree_per_reader": [
+  35,
+  29,
+  36,
+  35,
+  33
+ ],
+ "mean_agree": 33.6,
+ "min_agree": 29,
+ "max_agree": 36,
+ "majority_agree": 36,
+ "no_majority": 1,
+ "alpha_readers": 0.6838970150241579,
+ "alpha_readers_and_gold": 0.7212447036311453,
+ "alpha_categories": "option position",
+ "disputed": [
+  {
+   "n": 5,
+   "id": "tdb-b6-072",
+   "gold": 5,
+   "votes": [
+    1,
+    5,
+    1,
+    1,
+    1
+   ],
+   "notes": []
+  },
+  {
+   "n": 11,
+   "id": "tdb-b5-032",
+   "gold": 2,
+   "votes": [
+    2,
+    3,
+    3,
+    1,
+    4
+   ],
+   "notes": [
+    "işaretli, açıklama yok"
+   ]
+  },
+  {
+   "n": 20,
+   "id": "tdb-b2-027",
+   "gold": 9,
+   "votes": [
+    2,
+    3,
+    9,
+    9,
+    3
+   ],
+   "notes": [
+    "işaretli, açıklama yok"
+   ]
+  },
+  {
+   "n": 35,
+   "id": "tdb-b1-063",
+   "gold": 4,
+   "votes": [
+    1,
+    1,
+    1,
+    4,
+    4
+   ],
+   "notes": [
+    "işaretli, açıklama yok"
+   ]
+  }
+ ]
+}

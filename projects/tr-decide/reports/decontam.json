@@ -1,0 +1,49 @@
+{
+ "method": "shared word 8-gram with a reference text",
+ "references": {
+  "MASSIVE 1.1 tr-TR (all splits)": {
+   "texts": 16521,
+   "programmatic": {
+    "items_with_overlap": 0,
+    "examples": []
+   },
+   "written": {
+    "items_with_overlap": 0,
+    "examples": []
+   }
+  },
+  "SIB-200 tur_Latn (dev, test)": {
+   "texts": 303,
+   "programmatic": {
+    "items_with_overlap": 0,
+    "examples": []
+   },
+   "written": {
+    "items_with_overlap": 0,
+    "examples": []
+   }
+  },
+  "Belebele tur_Latn": {
+   "texts": 1800,
+   "programmatic": {
+    "items_with_overlap": 0,
+    "examples": []
+   },
+   "written": {
+    "items_with_overlap": 0,
+    "examples": []
+   }
+  },
+  "erenextlabs/turkish-decision-benchmark@0662f85": {
+   "texts": 2194,
+   "programmatic": {
+    "items_with_overlap": 0,
+    "examples": []
+   },
+   "written": {
+    "items_with_overlap": 0,
+    "examples": []
+   }
+  }
+ }
+}

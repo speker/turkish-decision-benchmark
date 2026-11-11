@@ -1,0 +1,49 @@
+{
+ "programmatic": {
+  "rows": 2820,
+  "exact_duplicate_items": 0,
+  "repeated_states": 0
+ },
+ "written": {
+  "rows": 698,
+  "exact_duplicate_items": 0,
+  "repeated_states": 0
+ },
+ "exact_duplicates_across_sets": 0,
+ "written_near_duplicates": {
+  "method": "MinHash, 128 hashes, word 5-gram shingles, estimated Jaccard >= 0.6",
+  "pairs": [
+   {
+    "a": "tdb-b1-007",
+    "b": "tdb-b1-008",
+    "jaccard_est": 0.625,
+    "kind": "minimal pair (same question, different gold)"
+   },
+   {
+    "a": "tdb-b4-005",
+    "b": "tdb-b4-006",
+    "jaccard_est": 0.641,
+    "kind": "minimal pair (same question, different gold)"
+   },
+   {
+    "a": "tdb-b4-015",
+    "b": "tdb-b4-016",
+    "jaccard_est": 0.703,
+    "kind": "minimal pair (same question, different gold)"
+   },
+   {
+    "a": "tdb-b5-015",
+    "b": "tdb-b5-016",
+    "jaccard_est": 0.656,
+    "kind": "minimal pair (same question, different gold)"
+   },
+   {
+    "a": "tdb-b5-040",
+    "b": "tdb-b5-041",
+    "jaccard_est": 0.641,
+    "kind": "minimal pair (same question, different gold)"
+   }
+  ],
+  "redundant": 0
+ }
+}

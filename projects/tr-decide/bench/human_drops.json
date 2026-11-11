@@ -1,0 +1,18 @@
+{
+ "decided": "2026-11-11",
+ "check": "five native readers answered 40 sampled written items without the gold (bench.human_form); items where their majority differed from the gold were read again",
+ "items": [
+  {
+   "id": "tdb-b2-027",
+   "gold": "Yatırım Operasyon",
+   "votes": "2 investment operations, 2 complaints unit, 1 digital channels support",
+   "reason": "the message asks for a check of an unfilled limit order but is written as a complaint, so the complaints unit is also defensible"
+  },
+  {
+   "id": "tdb-b1-063",
+   "gold": "Satıcı ilişkileri ekibi",
+   "votes": "3 order operations, 2 seller relations",
+   "reason": "an order stuck at 'waiting for seller approval' is an order-operations case, while the customer asks whether the platform will contact the seller; both teams are defensible"
+  }
+ ]
+}
